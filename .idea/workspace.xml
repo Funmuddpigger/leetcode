@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c690708-5950-4f1f-a49d-0ae0a0290884" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lbzcCCr1ytqtSLBPnEuTkVL5TO" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java/sourcecode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="myleetjava.sourcecodeleet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\idea.project\javaunder\src\java\sourcecode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RemoveDuplicatefromSortedArray (1)">
+    <configuration name="RemoveDuplicatefromSortedArray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myleetjava.sourcecodeleet.RemoveDuplicatefromSortedArray" />
+      <module name="javaunder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myleetjava.sourcecodeleet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatefromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.sourcecodeleet.RemoveDuplicatefromSortedArray" />
+      <module name="javaunder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.sourcecodeleet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatefromSortedArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myleetjava.sourcecodeleet.RemoveDuplicatefromSortedArray2" />
+      <module name="javaunder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myleetjava.sourcecodeleet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.sourcecodeleet.arr" />
+      <module name="javaunder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.sourcecodeleet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RemoveDuplicatefromSortedArray (1)" />
+        <item itemvalue="Application.RemoveDuplicatefromSortedArray2" />
+        <item itemvalue="Application.arr" />
+        <item itemvalue="Application.RemoveDuplicatefromSortedArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c690708-5950-4f1f-a49d-0ae0a0290884" name="Default Changelist" comment="" />
+      <created>1607880655467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607880655467</updated>
+      <workItem from="1607880681612" duration="2905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1033" height="206" key="GridCell.Tab.0.bottom" timestamp="1607883589132">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1033" height="206" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1607883589132" />
+    <state width="1033" height="206" key="GridCell.Tab.0.center" timestamp="1607883589132">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1033" height="206" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1607883589132" />
+    <state width="1033" height="206" key="GridCell.Tab.0.left" timestamp="1607883589132">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1033" height="206" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1607883589132" />
+    <state width="1033" height="206" key="GridCell.Tab.0.right" timestamp="1607883589132">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1033" height="206" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1607883589132" />
+  </component>
+</project>
