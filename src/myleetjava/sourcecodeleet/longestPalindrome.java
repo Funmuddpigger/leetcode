@@ -22,6 +22,7 @@ public class longestPalindrome {
                 System.out.println("k: "+i+" p: "+j+" dp: "+dp[i][j]);
                 if(dp[i][j]&&l+1>ans.length()){
                     ans =s.substring(i,i+l+1);
+                    System.out.println(i+"TTT"+(i+l+1));
                 }
             }
         }
