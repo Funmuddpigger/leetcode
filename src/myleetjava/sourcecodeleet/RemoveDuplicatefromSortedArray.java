@@ -16,7 +16,7 @@ public class RemoveDuplicatefromSortedArray {
                     top++;
                 }
             }
-            System.out.println(top);
+
         }
 
 }
