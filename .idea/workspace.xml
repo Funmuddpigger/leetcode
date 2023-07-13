@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c690708-5950-4f1f-a49d-0ae0a0290884" name="Default Changelist" comment="" />
+    <list default="true" id="5c690708-5950-4f1f-a49d-0ae0a0290884" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/thread/JpsAndJInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/CanConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/赎金信_383_CanConstruct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/存在重复元素_217_ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/外观数列_38_CountAndSay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/寻找两个正序数组的中位数_4_FindMedianSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/FirstUniqChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/字符串中的第一个唯一字符_387_FirstUniqChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/Intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/两个数组的交集_349_Intersect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的字母异位词_242_IsAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/验证回文串_125_IsPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/IsValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的数独_36_IsValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/多数元素_169_MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/买卖股票最佳时机2_122_MaxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/合并两个有序数组_88_Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/合并两个有序链表_21_MergeTwoLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/移动零_283_MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/加一_66_PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/反转链表_206_ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转数组_189_Rotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/RotateSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转图像_48_RotateSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/SearchMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/只出现一次的数字_136_SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/找出字符串中第一个匹配项的下标__28_StrStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/removeNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/删除链表的倒数第N个结点_19_removeNthFromEnd.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,32 +52,52 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1lbzcCCr1ytqtSLBPnEuTkVL5TO" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="更新" />
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java/sourcecode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../outbound-logistics/outbound-logistics-api" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA.JAVA\MyLeetcode\leetcode\src\myleetjava\leetcodeStudy" />
+      <recent name="E:\IDEA.JAVA\MyLeetcode\leetcode\src\myleetjava" />
+      <recent name="E:\IDEA.JAVA\MyLeetcode\leetcode\src\myleetjava\outer" />
+      <recent name="H:\idea.project\javaunder\src\java\sourcecode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA.JAVA\MyLeetcode\leetcode\src\thread" />
+      <recent name="E:\IDEA.JAVA\MyLeetcode\leetcode\src\myleetjava\sourcecodeleet" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="myleetjava.sourcecodeleet" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\idea.project\javaunder\src\java\sourcecode" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatefromSortedArray (1)">
-    <configuration name="RemoveDuplicatefromSortedArray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myleetjava.sourcecodeleet.RemoveDuplicatefromSortedArray" />
+  <component name="RunManager" selected="Application.JpsAndJInfo">
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.DeadLock" />
       <module name="javaunder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myleetjava.sourcecodeleet.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatefromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.sourcecodeleet.RemoveDuplicatefromSortedArray" />
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myleetjava.chart.Dijkstra" />
       <module name="javaunder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.sourcecodeleet.*" />
+          <option name="PATTERN" value="myleetjava.chart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatefromSortedArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myleetjava.sourcecodeleet.RemoveDuplicatefromSortedArray2" />
+    <configuration name="JpsAndJInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.JpsAndJInfo" />
       <module name="javaunder" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myleetjava.sourcecodeleet.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.sourcecodeleet.arr" />
+    <configuration name="PrefectDaily" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myleetjava.prefectDaily.PrefectDaily" />
       <module name="javaunder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.sourcecodeleet.*" />
+          <option name="PATTERN" value="myleetjava.prefectDaily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,15 +145,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huoyugame.StringToInt" />
+      <module name="javaunder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huoyugame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PrefectDaily" />
+      <item itemvalue="Application.StringToInt" />
+      <item itemvalue="Application.DeadLock" />
+      <item itemvalue="Application.Dijkstra" />
+      <item itemvalue="Application.JpsAndJInfo" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicatefromSortedArray (1)" />
-        <item itemvalue="Application.RemoveDuplicatefromSortedArray2" />
-        <item itemvalue="Application.arr" />
-        <item itemvalue="Application.RemoveDuplicatefromSortedArray" />
+        <item itemvalue="Application.JpsAndJInfo" />
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.StringToInt" />
+        <item itemvalue="Application.PrefectDaily" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -106,28 +187,872 @@
       <option name="presentableId" value="Default" />
       <updated>1607880655467</updated>
       <workItem from="1607880681612" duration="2905000" />
+      <workItem from="1607952555849" duration="7110000" />
+      <workItem from="1607998586955" duration="324000" />
+      <workItem from="1608049437835" duration="3123000" />
+      <workItem from="1608093586305" duration="50000" />
+      <workItem from="1608638425919" duration="894000" />
+      <workItem from="1608643321829" duration="749000" />
+      <workItem from="1608649565901" duration="5510000" />
+      <workItem from="1608655618023" duration="278000" />
+      <workItem from="1608698354660" duration="7505000" />
+      <workItem from="1608736805791" duration="6293000" />
+      <workItem from="1608775766578" duration="1986000" />
+      <workItem from="1608779133509" duration="266000" />
+      <workItem from="1608779414461" duration="44000" />
+      <workItem from="1608823659768" duration="2841000" />
+      <workItem from="1608856430787" duration="7039000" />
+      <workItem from="1609125780909" duration="2381000" />
+      <workItem from="1609163905856" duration="9593000" />
+      <workItem from="1609227971543" duration="1247000" />
+      <workItem from="1609258381977" duration="4679000" />
+      <workItem from="1609263279248" duration="49000" />
+      <workItem from="1609300642465" duration="20000" />
+      <workItem from="1609342068534" duration="4157000" />
+      <workItem from="1609378838724" duration="51000" />
+      <workItem from="1609385511797" duration="2706000" />
+      <workItem from="1609395284103" duration="1409000" />
+      <workItem from="1609741021706" duration="541000" />
+      <workItem from="1609743601204" duration="2823000" />
+      <workItem from="1609818579521" duration="6129000" />
+      <workItem from="1609942736225" duration="1188000" />
+      <workItem from="1610207234381" duration="38000" />
+      <workItem from="1611313073240" duration="600000" />
+      <workItem from="1611318909205" duration="1225000" />
+      <workItem from="1611320864003" duration="26000" />
+      <workItem from="1611320906664" duration="5050000" />
+      <workItem from="1611560021829" duration="408000" />
+      <workItem from="1611560464334" duration="10374000" />
+      <workItem from="1612006556242" duration="12000" />
+      <workItem from="1612446467082" duration="4998000" />
+      <workItem from="1612875116564" duration="1961000" />
+      <workItem from="1614067898191" duration="4135000" />
+      <workItem from="1614180199773" duration="687000" />
+      <workItem from="1614266492696" duration="8726000" />
+      <workItem from="1614435898842" duration="591000" />
+      <workItem from="1614691802594" duration="5111000" />
+      <workItem from="1614783572157" duration="42000" />
+      <workItem from="1615215986446" duration="894000" />
+      <workItem from="1615218286165" duration="835000" />
+      <workItem from="1615294408887" duration="5767000" />
+      <workItem from="1615301339680" duration="1244000" />
+      <workItem from="1615387876210" duration="2305000" />
+      <workItem from="1615472906544" duration="1937000" />
+      <workItem from="1615561326067" duration="1491000" />
+      <workItem from="1615644427205" duration="8374000" />
+      <workItem from="1615736031733" duration="2111000" />
+      <workItem from="1615818872422" duration="873000" />
+      <workItem from="1615899023698" duration="8914000" />
+      <workItem from="1615995581635" duration="1272000" />
+      <workItem from="1616076683306" duration="3825000" />
+      <workItem from="1616152216639" duration="3474000" />
+      <workItem from="1616169142025" duration="2766000" />
+      <workItem from="1616324218507" duration="4926000" />
+      <workItem from="1616427387141" duration="177000" />
+      <workItem from="1616428264735" duration="624000" />
+      <workItem from="1616514222269" duration="459000" />
+      <workItem from="1616595457053" duration="6193000" />
+      <workItem from="1616683974437" duration="3694000" />
+      <workItem from="1616767488843" duration="3822000" />
+      <workItem from="1616828590158" duration="6973000" />
+      <workItem from="1616856740748" duration="4607000" />
+      <workItem from="1616942947373" duration="4681000" />
+      <workItem from="1617027880830" duration="5859000" />
+      <workItem from="1617080847146" duration="162000" />
+      <workItem from="1617115656618" duration="2840000" />
+      <workItem from="1617155809629" duration="2070000" />
+      <workItem from="1617205199713" duration="870000" />
+      <workItem from="1617286156297" duration="4909000" />
+      <workItem from="1617372428019" duration="4705000" />
+      <workItem from="1617467512045" duration="4242000" />
+      <workItem from="1617472530796" duration="289000" />
+      <workItem from="1617553283930" duration="1146000" />
+      <workItem from="1617637195436" duration="781000" />
+      <workItem from="1617805291101" duration="4920000" />
+      <workItem from="1617892068909" duration="5084000" />
+      <workItem from="1617898419105" duration="144000" />
+      <workItem from="1617978838722" duration="4342000" />
+      <workItem from="1618046989641" duration="713000" />
+      <workItem from="1618066034585" duration="1854000" />
+      <workItem from="1618070353881" duration="1132000" />
+      <workItem from="1618154709471" duration="811000" />
+      <workItem from="1618157392937" duration="1090000" />
+      <workItem from="1618212613389" duration="2414000" />
+      <workItem from="1618319304102" duration="1452000" />
+      <workItem from="1618365468495" duration="463000" />
+      <workItem from="1618404711452" duration="1542000" />
+      <workItem from="1618491432443" duration="9458000" />
+      <workItem from="1618505598741" duration="210000" />
+      <workItem from="1618654261263" duration="595000" />
+      <workItem from="1618671383919" duration="2507000" />
+      <workItem from="1618747842531" duration="7973000" />
+      <workItem from="1618796797675" duration="380000" />
+      <workItem from="1618839397302" duration="74000" />
+      <workItem from="1618918134024" duration="990000" />
+      <workItem from="1618970547607" duration="1106000" />
+      <workItem from="1618977038412" duration="1190000" />
+      <workItem from="1619012552081" duration="611000" />
+      <workItem from="1619184257133" duration="1761000" />
+      <workItem from="1619266270428" duration="4685000" />
+      <workItem from="1619335485509" duration="311000" />
+      <workItem from="1620480530590" duration="1141000" />
+      <workItem from="1620565868915" duration="1030000" />
+      <workItem from="1620631852702" duration="299000" />
+      <workItem from="1620649912684" duration="792000" />
+      <workItem from="1620815370073" duration="27000" />
+      <workItem from="1631291963866" duration="1260000" />
+      <workItem from="1631463929296" duration="2470000" />
+      <workItem from="1631581794170" duration="115000" />
+      <workItem from="1631807254042" duration="2111000" />
+      <workItem from="1631840800557" duration="667000" />
+      <workItem from="1631889915884" duration="5975000" />
+      <workItem from="1632325812846" duration="666000" />
+      <workItem from="1632406293247" duration="2548000" />
+      <workItem from="1634729108968" duration="2123000" />
+      <workItem from="1640832145095" duration="46000" />
+      <workItem from="1647318504118" duration="3634000" />
+      <workItem from="1647344964448" duration="1134000" />
+      <workItem from="1647351512928" duration="127000" />
+      <workItem from="1652102137902" duration="2767000" />
+      <workItem from="1652444151559" duration="2882000" />
+      <workItem from="1652497422988" duration="7168000" />
+      <workItem from="1652512865462" duration="1478000" />
+      <workItem from="1652591802935" duration="6783000" />
+      <workItem from="1653108081444" duration="450000" />
+      <workItem from="1654789063808" duration="3010000" />
+      <workItem from="1657947637377" duration="62000" />
+      <workItem from="1657947721107" duration="970000" />
+      <workItem from="1658028784106" duration="4057000" />
+      <workItem from="1658160687340" duration="1741000" />
+      <workItem from="1658546406628" duration="1500000" />
+      <workItem from="1658633746846" duration="1198000" />
+      <workItem from="1658849764271" duration="1968000" />
+      <workItem from="1658927712526" duration="593000" />
+      <workItem from="1659530377670" duration="1442000" />
+      <workItem from="1689259751906" duration="736000" />
+      <workItem from="1689260981783" duration="3218000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1607961335255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607961335255</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1608052558163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608052558164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1608638468238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608638468238</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1608655094869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608655094869</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Default Changelist">
+      <created>1608707992386</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608707992386</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Default Changelist">
+      <created>1608776946249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608776946249</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Default Changelist">
+      <created>1608860342213</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608860342213</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Default Changelist">
+      <created>1608863360712</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608863360712</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Default Changelist">
+      <created>1609132224512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609132224512</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Default Changelist">
+      <created>1609174177009</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609174177009</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Default Changelist">
+      <created>1609345575011</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609345575011</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Default Changelist">
+      <created>1609741236578</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609741236578</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Default Changelist">
+      <created>1609741275241</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609741275241</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Default Changelist">
+      <created>1609746744211</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609746744211</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Default Changelist">
+      <created>1611325181563</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611325181563</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Default Changelist">
+      <created>1611573722127</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611573722127</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Default Changelist">
+      <created>1615218391411</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1615218391411</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Default Changelist">
+      <created>1615910285458</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1615910285458</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Default Changelist">
+      <created>1616772290423</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616772290423</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Default Changelist">
+      <created>1617375972974</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1617375972974</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Default Changelist">
+      <created>1617472813977</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1617472813977</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Default Changelist">
+      <created>1617637390644</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1617637390644</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Default Changelist">
+      <created>1617810419514</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1617810419514</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Default Changelist">
+      <created>1617898539755</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1617898539755</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Default Changelist">
+      <created>1617983059865</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1617983059865</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Default Changelist">
+      <created>1617983222923</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1617983222923</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Default Changelist">
+      <created>1618071217280</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1618071217280</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Default Changelist">
+      <created>1618071275058</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1618071275058</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Default Changelist">
+      <created>1618155537015</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1618155537016</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Default Changelist">
+      <created>1618365913669</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1618365913669</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Default Changelist">
+      <created>1618504813175</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1618504813175</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Default Changelist">
+      <created>1618674915130</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1618674915130</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Default Changelist">
+      <created>1618797181390</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1618797181390</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Default Changelist">
+      <created>1618919131769</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1618919131769</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Default Changelist">
+      <created>1618978190731</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1618978190731</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Default Changelist">
+      <created>1619186018648</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1619186018648</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Default Changelist">
+      <created>1619270962750</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1619270962751</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Default Changelist">
+      <created>1620481137514</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1620481137514</updated>
+    </task>
+    <task id="LOCAL-00039" summary="leetcode">
+      <created>1631293138315</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1631293138315</updated>
+    </task>
+    <task id="LOCAL-00040" summary="leetcode">
+      <created>1631841360732</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1631841360732</updated>
+    </task>
+    <task id="LOCAL-00041" summary="leetcode 200 岛屿">
+      <created>1631895991440</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1631895991440</updated>
+    </task>
+    <task id="LOCAL-00042" summary="1. leetcode 赎金信&#10;2. 时间操作(CVTE)&#10;3. 统计二进制中1的个数(逸仙电商)&#10;4. Dijkstra&#10;5. 死锁&#10;6. 字符串转数字(火羽)">
+      <created>1652592652697</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1652592652697</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1033" height="206" key="GridCell.Tab.0.bottom" timestamp="1607883589132">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1033" height="206" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1607883589132" />
-    <state width="1033" height="206" key="GridCell.Tab.0.center" timestamp="1607883589132">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1033" height="206" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1607883589132" />
-    <state width="1033" height="206" key="GridCell.Tab.0.left" timestamp="1607883589132">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1033" height="206" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1607883589132" />
-    <state width="1033" height="206" key="GridCell.Tab.0.right" timestamp="1607883589132">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1033" height="206" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1607883589132" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <MESSAGE value="leetcode" />
+    <MESSAGE value="leetcode 200 岛屿" />
+    <MESSAGE value="1. leetcode 赎金信&#10;2. 时间操作(CVTE)&#10;3. 统计二进制中1的个数(逸仙电商)&#10;4. Dijkstra&#10;5. 死锁&#10;6. 字符串转数字(火羽)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. leetcode 赎金信&#10;2. 时间操作(CVTE)&#10;3. 统计二进制中1的个数(逸仙电商)&#10;4. Dijkstra&#10;5. 死锁&#10;6. 字符串转数字(火羽)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/RemoveDuplicates.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/RemoveDuplicates.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/codetest/DelStack.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/codetest/DelStack.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/codetest/DelStack.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/codetest/DelStack.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/codetest/DelStack.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/codetest/DelStack.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/Reverse.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/Reverse.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/Reverse.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/Reverse.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/Reverse.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/alibaba/newTest2.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/alibaba/newTest2.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/alibaba/newTest2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/alibaba/newTest2.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/alibaba/newTest2.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/alibaba/newTest2.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/baidu/test01.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/baidu/test01.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/baidu/test01.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/baidu/test01.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/baidu/test01.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/baidu/test01.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/ClimbStairs.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/wangyi/Test02.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/wangyi/Test02.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/wangyi/Test02.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/wangyi/Test02.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/wangyi/Test02.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/wangyi/Test02.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/wangyi/Test02.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/wangyi/Test02.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/sourcecodeleet/CountAndSay.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/threeseven/NewTon2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/threeseven/NewTon2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/threeseven/NewTon2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/只出现一次的数字_136_SingleNumber.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/只出现一次的数字_136_SingleNumber.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/买卖股票最佳时机2_122_MaxProfit.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转数组_189_Rotate.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转数组_189_Rotate.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的数独_36_IsValidSudoku.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的数独_36_IsValidSudoku.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的数独_36_IsValidSudoku.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的数独_36_IsValidSudoku.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的数独_36_IsValidSudoku.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的数独_36_IsValidSudoku.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转图像_48_RotateSquare.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转图像_48_RotateSquare.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转图像_48_RotateSquare.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转图像_48_RotateSquare.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转图像_48_RotateSquare.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转图像_48_RotateSquare.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/tx/test03.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/reverseInt.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/reverseInt.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/reverseInt.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/reverseInt.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/reverseInt.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/找出字符串中第一个匹配项的下标__28_StrStr.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/pro/code/NumIslands.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/pro/code/NumIslands.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/pro/code/NumIslands.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/pro/code/NumIslands.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/pro/code/NumIslands.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
