@@ -2,7 +2,7 @@ package myleetjava.leetcodeStudy;
 
 import java.util.HashMap;
 
-public class CanConstruct {
+public class 赎金信_383_CanConstruct {
     public boolean canConstruct(String ransomNote, String magazine) {
         //map映射,string 和 int ,int代表magazine出现的次数,当get为 null或者int中的value < 0 则false
         HashMap<Character, Integer> bitMap = new HashMap<>();

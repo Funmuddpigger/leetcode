@@ -1,7 +1,7 @@
 package myleetjava.leetcodeStudy;
 
 //leetcode 88. 合并两个有序数组
-public class Merge {
+public class 合并两个有序数组_88_Merge {
     public static void main(String[] args) {
         merge(new int[]{1,2,3,0,0,0},3,new int[]{4,5,6},3);
     }

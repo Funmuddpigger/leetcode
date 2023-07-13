@@ -3,7 +3,7 @@ package myleetjava.leetcodeStudy;
 import java.util.LinkedHashMap;
 import java.util.Map;
 //leetcode 字符串中的第一个唯一字符
-public class FirstUniqChar {
+public class 字符串中的第一个唯一字符_387_FirstUniqChar {
     public static void main(String[] args) {
         System.out.println(firstUniqChar("dddccdbba"));
     }

@@ -1,6 +1,6 @@
 package myleetjava.leetcodeStudy;
 
-public class StrStr {
+public class 找出字符串中第一个匹配项的下标__28_StrStr {
     public static void main(String[] args) {
         System.out.println(strStr("hello", "ll"));
     }

@@ -1,7 +1,7 @@
 package myleetjava.leetcodeStudy;
 
 //leetcode 移动零
-public class MoveZeroes {
+public class 移动零_283_MoveZeroes {
     /**
      * 双指针,slow记录0的个数,如果遇到0则加一,然后fast继续后移动
      * fast-slow------因为每次交换后 0 总处于未交换的数组的最前面,

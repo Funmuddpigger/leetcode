@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 //leetcode 189.旋转数组
-public class Rotate {
+public class 旋转数组_189_Rotate {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(rotate2(new int[]{1,2,3,4,5,6,7},3)));
         Scanner sc = new Scanner(System.in);

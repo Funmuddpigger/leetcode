@@ -1,6 +1,6 @@
 package myleetjava.leetcodeStudy;
 //leetcode 反转链表
-public class ReverseList {
+public class 反转链表_206_ReverseList {
     public class ListNode {
         int val;
         ListNode next;

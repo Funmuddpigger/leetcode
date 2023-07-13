@@ -1,7 +1,7 @@
 package myleetjava.leetcodeStudy;
 
 //leetcode 38外观数列
-public class CountAndSay {
+public class 外观数列_38_CountAndSay {
     public static void main(String[] args) {
         System.out.println(countAndSay(2));
     }

@@ -1,6 +1,6 @@
 package myleetjava.leetcodeStudy;
 
-public class FindMedianSortedArrays {
+public class 寻找两个正序数组的中位数_4_FindMedianSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int m = nums1.length, n = nums2.length;
         int one = 0, second = 0, lens = m + n, k = 0;

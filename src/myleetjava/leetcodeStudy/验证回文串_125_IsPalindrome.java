@@ -1,7 +1,7 @@
 package myleetjava.leetcodeStudy;
 
 //leetcode 125.验证回文串
-public class IsPalindrome {
+public class 验证回文串_125_IsPalindrome {
     public static void main(String[] args) {
         System.out.println(isPalindrome("a."));
     }

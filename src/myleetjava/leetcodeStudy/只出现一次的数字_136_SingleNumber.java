@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Scanner;
 
-public class SingleNumber {
+public class 只出现一次的数字_136_SingleNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] nums = new int[11];

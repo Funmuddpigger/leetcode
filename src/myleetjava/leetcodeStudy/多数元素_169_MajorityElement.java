@@ -2,7 +2,7 @@ package myleetjava.leetcodeStudy;
 
 //leetcode 169. 多数元素
 
-public class MajorityElement {
+public class 多数元素_169_MajorityElement {
 
     /**
      * Boyer-Moore 投票算法

@@ -1,6 +1,6 @@
 package myleetjava.leetcodeStudy;
 
-public class reverseInt {
+public class 反转整数_7_reverseInt {
     public static void main(String[] args) {
         reverse(1534236469);
     }

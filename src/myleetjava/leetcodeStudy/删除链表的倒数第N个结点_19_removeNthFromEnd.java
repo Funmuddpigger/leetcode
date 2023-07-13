@@ -1,7 +1,7 @@
 package myleetjava.leetcodeStudy;
 
 //leetcode 19. 删除链表的倒数第 N 个结点
-public class removeNthFromEnd {
+public class 删除链表的倒数第N个结点_19_removeNthFromEnd {
 
 
       //Definition for singly-linked list.

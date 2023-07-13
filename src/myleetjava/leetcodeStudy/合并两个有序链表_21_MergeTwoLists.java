@@ -1,6 +1,6 @@
 package myleetjava.leetcodeStudy;
 
-public class MergeTwoLists {
+public class 合并两个有序链表_21_MergeTwoLists {
 
 //     * Definition for singly-linked list.
       public class ListNode {

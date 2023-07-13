@@ -1,7 +1,7 @@
 package myleetjava.leetcodeStudy;
 
 //leetcode 旋转图像
-public class RotateSquare {
+public class 旋转图像_48_RotateSquare {
     public static void main(String[] args) {
         int[][] c = new int[][]{{5,1,9,11},{2,4,8,10},{13,3,6,7},{15,14,12,16}};
         rotate(c);

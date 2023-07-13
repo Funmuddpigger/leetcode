@@ -1,7 +1,7 @@
 package myleetjava.leetcodeStudy;
 
 //leetcode 122.买卖股票最佳时机2  122. Best Time to Buy and Sell Stock II
-public class MaxProfit {
+public class 买卖股票最佳时机2_122_MaxProfit {
     public static void main(String[] args) {
         System.out.println(maxProfit(new int[]{1,2,3,4,5}));
     }

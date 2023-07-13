@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 //leetcode 242. 有效的字母异位词
-public class IsAnagram {
+public class 有效的字母异位词_242_IsAnagram {
     public static void main(String[] args) {
         System.out.println(isAnagram("anagram","nagaram"));
     }

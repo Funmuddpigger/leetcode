@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Intersect {
+public class 两个数组的交集_349_Intersect {
     public static void main(String[] args) {
 
     }

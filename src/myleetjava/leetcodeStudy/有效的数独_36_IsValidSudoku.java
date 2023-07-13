@@ -2,7 +2,7 @@ package myleetjava.leetcodeStudy;
 
 import java.util.*;
 
-public class IsValidSudoku {
+public class 有效的数独_36_IsValidSudoku {
 
     public static void main(String[] args) {
         System.out.println(isValidSudoku(new char[][]{{'.','.','.','.','5','.','.','1','.'},{'.','4','.','3','.','.','.','.','.'},{'.','.','.','.','.','3','.','.','1'},

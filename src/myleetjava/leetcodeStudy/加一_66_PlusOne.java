@@ -3,7 +3,7 @@ package myleetjava.leetcodeStudy;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PlusOne {
+public class 加一_66_PlusOne {
     public static int[] plusOne(int[] digits){
         List<Integer> list = new ArrayList<>();
         int len = digits.length;
