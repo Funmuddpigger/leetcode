@@ -1,4 +1,4 @@
-package leetcode.code;
+package myleetjava.leetcodeStudy;
 
 public class 字符串相乘_43_multiply {
 

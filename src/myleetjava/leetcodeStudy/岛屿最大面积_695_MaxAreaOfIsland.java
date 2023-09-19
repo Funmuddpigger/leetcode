@@ -1,4 +1,4 @@
-package leetcode.code;
+package myleetjava.leetcodeStudy;
 
 /**
  * @author ：Administrator

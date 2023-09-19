@@ -1,4 +1,4 @@
-package leetcode.code;
+package myleetjava.leetcodeStudy;
 
 public class 环形链表_142_DetectCycle {
 
