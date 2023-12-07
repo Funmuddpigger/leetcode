@@ -24,8 +24,9 @@ public class 长度最小的子数组_209_minSubArrayLen {
         int left = 0,right = 0,len = nums.length,sum = 0,min = len+1;
         while(left<len){
             sum = sum + nums[left];
-            //前指针前移，达到目标值
+            //目标值范围内，则右指针前移，缩小数组长度
             while (sum >= target&&right<=left){
+                //计算最小数组长度
                 min = Math.min(min,left-right+1);
                 right++;
                 sum = sum - nums[right-1];

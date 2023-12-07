@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c690708-5950-4f1f-a49d-0ae0a0290884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/thread/JpsAndJInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/CanConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/赎金信_383_CanConstruct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/存在重复元素_217_ContainsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/外观数列_38_CountAndSay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/寻找两个正序数组的中位数_4_FindMedianSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/FirstUniqChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/字符串中的第一个唯一字符_387_FirstUniqChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/Intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/两个数组的交集_349_Intersect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的字母异位词_242_IsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/验证回文串_125_IsPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/IsValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/有效的数独_36_IsValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/多数元素_169_MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/买卖股票最佳时机2_122_MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/合并两个有序数组_88_Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/合并两个有序链表_21_MergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/移动零_283_MoveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/加一_66_PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/反转链表_206_ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转数组_189_Rotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/RotateSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/旋转图像_48_RotateSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/SearchMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/搜索二维矩阵II_240_SearchMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/只出现一次的数字_136_SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/找出字符串中第一个匹配项的下标__28_StrStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/removeNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/删除链表的倒数第N个结点_19_removeNthFromEnd.java" afterDir="false" />
+    <list default="true" id="5c690708-5950-4f1f-a49d-0ae0a0290884" name="Default Changelist" comment="1. leetcode 209 长度最小的子数组_209_minSubArrayLen">
+      <change afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/螺旋矩阵_54_spiralOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/长度最小的子数组_209_minSubArrayLen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myleetjava/leetcodeStudy/长度最小的子数组_209_minSubArrayLen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +36,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1lbzcCCr1ytqtSLBPnEuTkVL5TO" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="更新" />
@@ -64,18 +47,16 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../outbound-logistics/outbound-logistics-api" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project/DeciveSecurity&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IDEA.JAVA\MyLeetcode\leetcode\src\myleetjava\leetcodeStudy" />
@@ -88,10 +69,11 @@
       <recent name="E:\IDEA.JAVA\MyLeetcode\leetcode\src\myleetjava\sourcecodeleet" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="myleetjava.leetcodeStudy" />
       <recent name="myleetjava.sourcecodeleet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JpsAndJInfo">
+  <component name="RunManager" selected="Application.螺旋矩阵_54_spiralOrder">
     <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.DeadLock" />
       <module name="javaunder" />
@@ -132,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefectDaily" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myleetjava.prefectDaily.PrefectDaily" />
+    <configuration name="螺旋矩阵_54_spiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myleetjava.leetcodeStudy.螺旋矩阵_54_spiralOrder" />
       <module name="javaunder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myleetjava.prefectDaily.*" />
+          <option name="PATTERN" value="myleetjava.leetcodeStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="huoyugame.StringToInt" />
+    <configuration name="箱子问题_MaxPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myleetjava.eshore.箱子问题_MaxPoint" />
       <module name="javaunder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="huoyugame.*" />
+          <option name="PATTERN" value="myleetjava.eshore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrefectDaily" />
-      <item itemvalue="Application.StringToInt" />
+      <item itemvalue="Application.螺旋矩阵_54_spiralOrder" />
+      <item itemvalue="Application.箱子问题_MaxPoint" />
       <item itemvalue="Application.DeadLock" />
       <item itemvalue="Application.Dijkstra" />
       <item itemvalue="Application.JpsAndJInfo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.螺旋矩阵_54_spiralOrder" />
+        <item itemvalue="Application.箱子问题_MaxPoint" />
         <item itemvalue="Application.JpsAndJInfo" />
         <item itemvalue="Application.Dijkstra" />
         <item itemvalue="Application.DeadLock" />
-        <item itemvalue="Application.StringToInt" />
-        <item itemvalue="Application.PrefectDaily" />
       </list>
     </recent_temporary>
   </component>
@@ -331,6 +313,14 @@
       <workItem from="1659530377670" duration="1442000" />
       <workItem from="1689259751906" duration="736000" />
       <workItem from="1689260981783" duration="3218000" />
+      <workItem from="1697794028329" duration="9229000" />
+      <workItem from="1698214970963" duration="622000" />
+      <workItem from="1698310610870" duration="15000" />
+      <workItem from="1699521619061" duration="4866000" />
+      <workItem from="1699859551584" duration="4836000" />
+      <workItem from="1700461871039" duration="19170000" />
+      <workItem from="1700535178586" duration="3106000" />
+      <workItem from="1701757828035" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1607961335255</created>
@@ -626,18 +616,53 @@
       <option name="project" value="LOCAL" />
       <updated>1652592652697</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="1. leetcode 常数时间插入删除和获取随机元素_380，搜索二维矩阵_74，最长递增子序列_300，零钱兑换_322">
+      <created>1697794299831</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1697794299831</updated>
+    </task>
+    <task id="LOCAL-00044" summary="1. leetcode 209 长度最小的子数组_209_minSubArrayLen">
+      <created>1699521678783</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1699521678783</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="67" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="67" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="67" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="leetcode" />
     <MESSAGE value="leetcode 200 岛屿" />
     <MESSAGE value="1. leetcode 赎金信&#10;2. 时间操作(CVTE)&#10;3. 统计二进制中1的个数(逸仙电商)&#10;4. Dijkstra&#10;5. 死锁&#10;6. 字符串转数字(火羽)" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. leetcode 赎金信&#10;2. 时间操作(CVTE)&#10;3. 统计二进制中1的个数(逸仙电商)&#10;4. Dijkstra&#10;5. 死锁&#10;6. 字符串转数字(火羽)" />
+    <MESSAGE value="1. leetcode 常数时间插入删除和获取随机元素_380，搜索二维矩阵_74，最长递增子序列_300，零钱兑换_322" />
+    <MESSAGE value="1. leetcode 209 长度最小的子数组_209_minSubArrayLen" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. leetcode 209 长度最小的子数组_209_minSubArrayLen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1051,6 +1076,16 @@
           <url>file://$PROJECT_DIR$/src/myleetjava/pro/code/NumIslands.java</url>
           <line>58</line>
           <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/螺旋矩阵_54_spiralOrder.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myleetjava/leetcodeStudy/螺旋矩阵_54_spiralOrder.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="200" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
