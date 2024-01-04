@@ -40,7 +40,9 @@ public class 三角形最小路径和_120_minimumTotal {
      *
      * 因此根据这个移动规则，我们可以列出dp方程
      * dp[0][0] = List.get(0).get(0);  第一个元素（初始元素）
-     * dp[i][j] = Min(dp[i][j-1],dp[i-1][j-1]) + List.get(i).get(j)
+     * dp[i][j] = Min(dp[i][j-1],dp[i-1][j-1]) + List.get(i).get(j) 这是针对有左右父节点的元素
+     * dp[i][j] = dp[i][j-1] + List.get(i).get(j) 这是针对每层左节点，也就是j = 0的情况
+     * dp[i][maxIdx] = dp[i-1][j-1] + List.get(i).get(j) 这是针对每层最右节点，也就是j = 当前层最大idx的情况
      * 这里要注意的是这个矩形是只有一半的，其他的都是0
      *
      */
@@ -62,8 +64,8 @@ public class 三角形最小路径和_120_minimumTotal {
                 if(j == 0){
                     dp[i][j] = dp[i-1][j] + triangle.get(i).get(j);
                 }
-                //第二种，不在边界线，但在第二层，也只有一个点可以走
-                else if (i == 1) {
+                //第三种每层最右节点
+                else if(j == size-1){
                     dp[i][j] = dp[i-1][j-1] + triangle.get(i).get(j);
                 }
                 //第三种，有左右父节点可以到达
