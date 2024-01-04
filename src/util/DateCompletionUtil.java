@@ -18,7 +18,7 @@ public class DateCompletionUtil {
         //一个小时一次的查询
         ArrayList<String> x = new ArrayList<>();
         for (int i = startTime; i <= endTime; i++) {
-            x.add(i + "点");
+            x.add(i + "点") ;
         }
         return x;
     }
